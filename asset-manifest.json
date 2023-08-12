@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/shivam_idbm_clone/static/css/main.879b2408.css",
-    "main.js": "/shivam_idbm_clone/static/js/main.8120263e.js",
+    "main.js": "/shivam_idbm_clone/static/js/main.92893447.js",
     "static/js/787.e253fc0a.chunk.js": "/shivam_idbm_clone/static/js/787.e253fc0a.chunk.js",
     "index.html": "/shivam_idbm_clone/index.html",
     "main.879b2408.css.map": "/shivam_idbm_clone/static/css/main.879b2408.css.map",
-    "main.8120263e.js.map": "/shivam_idbm_clone/static/js/main.8120263e.js.map",
+    "main.92893447.js.map": "/shivam_idbm_clone/static/js/main.92893447.js.map",
     "787.e253fc0a.chunk.js.map": "/shivam_idbm_clone/static/js/787.e253fc0a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.879b2408.css",
-    "static/js/main.8120263e.js"
+    "static/js/main.92893447.js"
   ]
 }
